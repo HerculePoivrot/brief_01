@@ -1,0 +1,5 @@
+.venv
+__pycache__
+employes_data.json
+functions_salaire.py  
+salaire_mensuel_final_ipynb
